@@ -198,4 +198,3 @@ A great way to start is by improving documentation.
 ## License
 
 DialogWeaver is released under the **[MIT License](LICENSE)**.
-```
