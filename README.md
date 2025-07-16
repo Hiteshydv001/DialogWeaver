@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-logo-url-here.com/dialogweaver_logo.svg" alt="DialogWeaver Logo" width="180">
+  <img src="https://github.com/Hiteshydv001/DialogWeaver/blob/main/docs/logo.jpg" alt="DialogWeaver Logo" width="180">
 </p>
 
 <h1 align="center">DialogWeaver</h1>
