@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Hiteshydv001/DialogWeaver/blob/main/docs/logo.jpg" alt="DialogWeaver Logo" width="180">
+  <img src="https://github.com/Hiteshydv001/DialogWeaver/blob/main/docs/logo.jpg" alt="DialogWeaver Logo" width="400">
 </p>
 
 <h1 align="center">DialogWeaver</h1>
@@ -42,8 +42,8 @@ DialogWeaver is built as a modern, service-oriented monorepo. This design provid
 | **`database`**| Persistent relational data storage.                                         | `PostgreSQL`                                       |
 | **`cache`**   | In-memory data store for caching and session management.                    | `Redis`                                            |
 
-![DialogWeaver Architecture Diagram](https://your-image-url-here.com/architecture.png)
-*(Note: You can create and host a simple architecture diagram and link it here.)*
+![DialogWeaver Architecture Diagram](https://github.com/Hiteshydv001/DialogWeaver/blob/main/docs/Architecture.png)
+
 
 ---
 
