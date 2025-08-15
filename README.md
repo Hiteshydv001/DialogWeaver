@@ -57,7 +57,7 @@ Get the entire DialogWeaver platform running on your local machine in just a few
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/Hiteshydv001/DialogWeaver.git
+git clone https://github.com/OpenVoiceX/DialogWeaver.git
 cd DialogWeaver
 ```
 
@@ -101,5 +101,6 @@ Please read our **[CONTRIBUTING.md](CONTRIBUTING.md)** to get started with the d
 ## License
 
 This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details.
+
 
 
