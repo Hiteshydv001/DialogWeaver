@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Hiteshydv001/DialogWeaver/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
-  <a href="https://github.com/Hiteshydv001/DialogWeaver/issues"><img src="https://img.shields.io/github/issues/your-username/dialogweaver" alt="GitHub issues"></a>
-  <a href="https://github.com/Hiteshydv001/DialogWeaver/blob/main/docs/Contribution.md"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome"></a>
+  <a href="https://github.com/OpenVoiceX/DialogWeaver/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
+  <a href="https://github.com/OpenVoiceX/DialogWeaver/issues"><img src="https://img.shields.io/github/issues/your-username/dialogweaver" alt="GitHub issues"></a>
+  <a href="https://github.com/OpenVoiceX/DialogWeaver/blob/main/CONTRIBUTING.md"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg" alt="PRs Welcome"></a>
   <a href="#"><img src="https://img.shields.io/static/v1?label=Discord&message=Join%20Chat&color=7289DA&logo=discord" alt="Join the community on Discord"></a>
 </p>
 
@@ -42,7 +42,7 @@ DialogWeaver is built as a modern, service-oriented monorepo. This design provid
 | **`database`**| Persistent relational data storage.                                         | `PostgreSQL`                                       |
 | **`cache`**   | In-memory data store for caching and session management.                    | `Redis`                                            |
 
-![DialogWeaver Architecture Diagram](https://github.com/Hiteshydv001/DialogWeaver/blob/main/docs/Architecture.png)
+![DialogWeaver Architecture Diagram](https://github.com/OpenVoiceX/DialogWeaver/blob/main/docs/Architecture.png)
 
 
 ---
@@ -101,6 +101,7 @@ Please read our **[CONTRIBUTING.md](CONTRIBUTING.md)** to get started with the d
 ## License
 
 This project is licensed under the MIT License - see the **[LICENSE](LICENSE)** file for details.
+
 
 
 
